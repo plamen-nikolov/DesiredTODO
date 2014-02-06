@@ -1,0 +1,7 @@
+[
+	{ "caption": "-", "id":"side-bar-end-separator" },
+	{
+		"caption": "TODO  	", "command":"todo", "args": { "paths": [] }
+	},
+	{ "caption": "-", "id": "side-bar-end-separator" }
+]
